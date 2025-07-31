@@ -1,0 +1,7 @@
+git clone <your-new-repo-url>
+cd easy-tax-ng
+mkdir mobile-app backend-api docs
+echo "# Easy Tax NG" >> README.md
+git add .
+git commit -m "Initial project structure with README"
+git push origin main
